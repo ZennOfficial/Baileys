@@ -37,14 +37,14 @@ Begin by installing the library via your preferred package manager, then follow 
 Tag/Label Member Grop
 
 ```javascript
-sock.setLabelGroup(jid, string)
+await sock.setLabelGroup(jid, string)
 ```
 ---
 ### Check ID Channel 
 Get ID Channel From Url
 
 ```javascript
-sock.newsletterFromUrl(url)
+await sock.newsletterFromUrl(url)
 ```
 Result JSON
 ```json
