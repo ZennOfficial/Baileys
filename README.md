@@ -414,8 +414,8 @@ For complete documentation, installation guides, and implementation examples, pl
 
 For questions, support, or collaboration, feel free to contact the developer:
 
-- **Telegram**: [Telegram Contact](https://t.me/tskiofc)
-- **Channel Telegram**: [Channel Telegram](
+- **Telegram**: [Telegram Contact](https://t.me/ZennOffc)
+- **Channel Telegram**: [Channel Telegram](https://t.me/ZennXfloww)
 - **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C) 
 
 ### 🙌 Contributors outside the Baileys code
@@ -440,7 +440,7 @@ Thanks to the following awesome contributors who help improve this project 💖
     </td>
     <td align="center">
       <a href="https://github.com/Nted3xec">
-        <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+        <img src="https://raw.githubusercontent.com/ZennXfloww/Quotes/main/1.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
         <sub><b>Nted3xec</b></sub>
       </a>
