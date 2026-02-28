@@ -95,7 +95,7 @@ await sock.sendMessage(jid, {
     eventMessage: { 
         isCanceled: false, 
         name: "Hello World", 
-        description: "z4phdev", 
+        description: "Zenn", 
         location: { 
             degreesLatitude: 0, 
             degreesLongitude: 0, 
@@ -138,7 +138,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt ",
+        footer: "telegram: @ZennOffc ",
         buttons: [
             {
                 name: "cta_copy",
@@ -161,7 +161,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @saweitt",      
+        footer: "telegram: @ZennOffc",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
@@ -180,7 +180,7 @@ await sock.sendMessage(jid, {
                 tap_target_configuration: {            
                     title: " X ",            
                     description: "bomboclard",            
-                    canonical_url: "https://t.me/saweitt",            
+                    canonical_url: "https://t.me/ZennOffc",            
                     domain: "shop.example.com",            
                     button_index: 0          
                 }        
@@ -208,7 +208,7 @@ await sock.sendMessage(jid, {
                                 highlight_label: "label",                  
                                 rows: [                    
                                     {                      
-                                        title: "@saweitt",                      
+                                        title: "@ZennOffc",                      
                                         description: "love you",                      
                                         id: "row_2"                    
                                     }                  
@@ -240,7 +240,7 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @ZennOffc",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -398,7 +398,7 @@ Because this library offers high stability, full features, and an actively impro
 - Compatible with the latest multi-device features from WhatsApp
 - Easy to integrate and customize based on your needs
 - Perfect for developing bots, customer service automation, and other communication applications
-- Has 1 newsletter follow, only the developer's WhatsApp channel: [WhatsApp Channel](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C)
+- Has 1 newsletter follow, only the developer's WhatsApp channel: [WhatsApp Channel](https://whatsapp.com/channel/0029Vb6tQ0390x2xtDBpHr2V)
 
 ---
 
@@ -416,7 +416,7 @@ For questions, support, or collaboration, feel free to contact the developer:
 
 - **Telegram**: [Telegram Contact](https://t.me/ZennOffc)
 - **Channel Telegram**: [Channel Telegram](https://t.me/ZennXfloww)
-- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C) 
+- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029Vb6tQ0390x2xtDBpHr2V) 
 
 ### 🙌 Contributors outside the Baileys code
 
@@ -432,7 +432,7 @@ Thanks to the following awesome contributors who help improve this project 💖
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Nted3xec">
+      <a href="https://github.com/ZennOfficial">
         <img src="https://raw.githubusercontent.com/ZennXfloww/Quotes/main/1.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
         <sub><b>ZennOffc</b></sub>
