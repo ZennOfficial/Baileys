@@ -431,6 +431,13 @@ Thanks to the following awesome contributors who help improve this project 💖
         <sub><b>z4phdev</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Nted3xec">
+        <img src="https://raw.githubusercontent.com/ZennXfloww/Quotes/main/1.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+        <br />
+        <sub><b>ZennOffc</b></sub>
+      </a>
+    </td>
 <td align="center">
       <a href="https://github.com/kiuur">
         <img src="https://github.com/kiuur.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
