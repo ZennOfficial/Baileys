@@ -1,7 +1,7 @@
 {
-    "name": "@Nted3xec/baileys",
+    "name": "@ZennOfficial/Baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Update By: N",
+    "description": "WhatsApp API Update",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -9,11 +9,11 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "z4phdev"
+        "zenn"
     ],
-    "homepage": "https://github.com/Nted3xec/baileys",
+    "homepage": "https://github.com/ZennOfficial/Baileys",
     "repository": {
-        "url": "https://github.com/Nted3xec/baileys"
+        "url": "https://github.com/ZennOfficial/Baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
