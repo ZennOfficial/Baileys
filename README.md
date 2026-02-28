@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" alt="Thumbnail" />
+  <img src="https://raw.githubusercontent.com/ZennXfloww/Quotes/main/1.jpg" alt="Thumbnail" />
 </p>
 
 
@@ -293,10 +293,10 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @ZennOffc",
         document: fs.readFileSync("./package.json"),
-        mimetype: "application/pdf",
-        fileName: "saweitt.pdf",
+        mimetype: "application/js",
+        fileName: "zenn.js",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [jid],
@@ -304,12 +304,12 @@ await sock.sendMessage(jid, {
             isForwarded: false
         },
         externalAdReply: {
-            title: "shenń Bot",
+            title: "Zenn Bot",
             body: "anu team",
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/saweitt",
+            sourceUrl: "https://t.me/ZennOffc",
             showAdAttribution: true,
             renderLargerThumbnail: false         
         },
@@ -318,8 +318,8 @@ await sock.sendMessage(jid, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/saweitt",
-                    merchant_url: "https://t.me/saweitt"
+                    url: "https://t.me/ZennOffc",
+                    merchant_url: "https://t.me/Offc"
                 })
             }
         ]
@@ -335,18 +335,18 @@ await sock.sendMessage(jid, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @saweitt",
+        footer: "telegram: @ZennOffc",
         document: fs.readFileSync("./package.json"),
-        mimetype: "application/pdf",
-        fileName: "saweitt.pdf",
+        mimetype: "application/js",
+        fileName: "zenn.js",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         buttons: [
             {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/saweitt",
-                    merchant_url: "https://t.me/saweitt"
+                    url: "https://t.me/ZennOffc",
+                    merchant_url: "https://t.me/ZennOffc"
                 })
             }
         ]
@@ -415,6 +415,7 @@ For complete documentation, installation guides, and implementation examples, pl
 For questions, support, or collaboration, feel free to contact the developer:
 
 - **Telegram**: [Telegram Contact](https://t.me/tskiofc)
+- **Channel Telegram**: [Channel Telegram](
 - **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VaranC0KmCPQCHryFs2C) 
 
 ### 🙌 Contributors outside the Baileys code
