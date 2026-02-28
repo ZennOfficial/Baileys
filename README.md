@@ -440,7 +440,7 @@ Thanks to the following awesome contributors who help improve this project 💖
     </td>
     <td align="center">
       <a href="https://github.com/Nted3xec">
-        <img src="https://raw.githubusercontent.com/ZennXfloww/Quotes/main/1.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+        <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
         <sub><b>Nted3xec</b></sub>
       </a>
